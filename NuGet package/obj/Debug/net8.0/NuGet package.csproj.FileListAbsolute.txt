@@ -1,0 +1,17 @@
+D:\лаба 9\NuGet package\bin\Debug\net8.0\NuGet package.exe
+D:\лаба 9\NuGet package\bin\Debug\net8.0\NuGet package.deps.json
+D:\лаба 9\NuGet package\bin\Debug\net8.0\NuGet package.runtimeconfig.json
+D:\лаба 9\NuGet package\bin\Debug\net8.0\NuGet package.dll
+D:\лаба 9\NuGet package\bin\Debug\net8.0\NuGet package.pdb
+D:\лаба 9\NuGet package\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.csproj.AssemblyReference.cache
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.AssemblyInfoInputs.cache
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.AssemblyInfo.cs
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.csproj.CoreCompileInputs.cache
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet pa.FC94CDFE.Up2Date
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.dll
+D:\лаба 9\NuGet package\obj\Debug\net8.0\refint\NuGet package.dll
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.pdb
+D:\лаба 9\NuGet package\obj\Debug\net8.0\NuGet package.genruntimeconfig.cache
+D:\лаба 9\NuGet package\obj\Debug\net8.0\ref\NuGet package.dll
