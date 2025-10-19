@@ -1,0 +1,14 @@
+D:\лаба 9\Delegates_Homework\bin\Debug\net8.0\Delegates_Homework.exe
+D:\лаба 9\Delegates_Homework\bin\Debug\net8.0\Delegates_Homework.deps.json
+D:\лаба 9\Delegates_Homework\bin\Debug\net8.0\Delegates_Homework.runtimeconfig.json
+D:\лаба 9\Delegates_Homework\bin\Debug\net8.0\Delegates_Homework.dll
+D:\лаба 9\Delegates_Homework\bin\Debug\net8.0\Delegates_Homework.pdb
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.AssemblyInfoInputs.cache
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.AssemblyInfo.cs
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.csproj.CoreCompileInputs.cache
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.dll
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\refint\Delegates_Homework.dll
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.pdb
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\Delegates_Homework.genruntimeconfig.cache
+D:\лаба 9\Delegates_Homework\obj\Debug\net8.0\ref\Delegates_Homework.dll

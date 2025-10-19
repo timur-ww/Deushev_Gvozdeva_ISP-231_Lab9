@@ -1,0 +1,14 @@
+D:\лаба 9\Event_class\bin\Debug\net8.0\Event_class.exe
+D:\лаба 9\Event_class\bin\Debug\net8.0\Event_class.deps.json
+D:\лаба 9\Event_class\bin\Debug\net8.0\Event_class.runtimeconfig.json
+D:\лаба 9\Event_class\bin\Debug\net8.0\Event_class.dll
+D:\лаба 9\Event_class\bin\Debug\net8.0\Event_class.pdb
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.AssemblyInfoInputs.cache
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.AssemblyInfo.cs
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.csproj.CoreCompileInputs.cache
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.dll
+D:\лаба 9\Event_class\obj\Debug\net8.0\refint\Event_class.dll
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.pdb
+D:\лаба 9\Event_class\obj\Debug\net8.0\Event_class.genruntimeconfig.cache
+D:\лаба 9\Event_class\obj\Debug\net8.0\ref\Event_class.dll
