@@ -1,0 +1,14 @@
+D:\лаба 9\YmniDom\bin\Debug\net8.0\YmniDom.exe
+D:\лаба 9\YmniDom\bin\Debug\net8.0\YmniDom.deps.json
+D:\лаба 9\YmniDom\bin\Debug\net8.0\YmniDom.runtimeconfig.json
+D:\лаба 9\YmniDom\bin\Debug\net8.0\YmniDom.dll
+D:\лаба 9\YmniDom\bin\Debug\net8.0\YmniDom.pdb
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.GeneratedMSBuildEditorConfig.editorconfig
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.AssemblyInfoInputs.cache
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.AssemblyInfo.cs
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.csproj.CoreCompileInputs.cache
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.dll
+D:\лаба 9\YmniDom\obj\Debug\net8.0\refint\YmniDom.dll
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.pdb
+D:\лаба 9\YmniDom\obj\Debug\net8.0\YmniDom.genruntimeconfig.cache
+D:\лаба 9\YmniDom\obj\Debug\net8.0\ref\YmniDom.dll
